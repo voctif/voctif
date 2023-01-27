@@ -7,10 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <div style=" align =center">
-    <img src="1.png" width="170" height="170">
-    <img src="2.png" width="170" height="170">
-    <img src="3.png" width="170" height="170">
+    <div align = "center">
+    <img src="../imgs/1.png" width="170" height="170">
+    <img src="../imgs/2.png" width="170" height="170">
+    <img src="../imgs/3.png" width="170" height="170">
     </div>
 </body>
 </html>
