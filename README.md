@@ -6,5 +6,5 @@
 - 📫 How to reach me: victorgabriell1177@gmail.com
 - 😄 Pronouns: he/him
 - 🎼 I like to listen: Polyphia 
-- ⚡ Fun fact: i like pitaya
+- ⚡ Fun fact: I like pitaya
 
