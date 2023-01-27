@@ -1,9 +1,7 @@
-### Hi there 👋 
+### Hi there i am Victor and here there are some things about me👋 
 
-Here are some ideas to get you started:
-teste teste
 - 🔭 I’m currently working on TCS
-- 🌱 I’m currently learning PHP, GIT, LINUX
+- 🌱 I’m currently learning PHP, GIT, LINUX also startiing Nextjs and .Net
 - 💬 Ask me about whatever you want
 - 📫 How to reach me: victorgabriell1177@gmail.com
 - 😄 Pronouns: he/him
