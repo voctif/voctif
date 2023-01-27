@@ -8,9 +8,9 @@
 </head>
 <body>
     <div align = "center">
-    <img src="../imgs/1.png" width="170" height="170">
-    <img src="../imgs/2.png" width="170" height="170">
-    <img src="../imgs/3.png" width="170" height="170">
+    <img src="/imgs/1.png" width="170" height="170">
+    <img src="/imgs/2.png" width="170" height="170">
+    <img src="/imgs/3.png" width="170" height="170">
     </div>
 </body>
 </html>
