@@ -1,4 +1,3 @@
-### Hi there i am Victor and here there are some things about me👋 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <div align="center">
+        <h2 align="center"> Hi there i am Victor and here there are some things about me</h2>
+    </div>
     <div align = "center">
     <img src="/imgs/1.png" width="170" height="170">
     <img src="/imgs/2.png" width="170" height="170">
