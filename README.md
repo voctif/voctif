@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <h2 align="center"> Hi there i am Victor and here there are some things about me</h2>
+        <h2 align="center"> Hello i am Victor </h2>
     </div>
     <div align = "center">
     <img src="/imgs/1.png" width="170" height="170">
