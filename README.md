@@ -10,8 +10,6 @@
         <h2 align="center"> Hello i am Victor </h2>
     </div>
     <div align = "center">
-    <img src="/imgs/1.png" width="170" height="170">
-    <img src="/imgs/2.png" width="170" height="170">
     <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voctif&layout=donut&theme=transparent">
     </div>
