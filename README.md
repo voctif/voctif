@@ -12,8 +12,10 @@
     <div align = "center">
     <img src="/imgs/1.png" width="170" height="170">
     <img src="/imgs/2.png" width="170" height="170">
-    <img src="/imgs/3.png" width="170" height="170">
+    <img src="https://github-readme-stats.vercel.app/api?voctif=anuraghazra&show_icons=true&theme=transparent">
     </div>
+
+    
 </body>
 </html>
 
