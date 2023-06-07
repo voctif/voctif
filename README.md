@@ -13,7 +13,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voctif&layout=donut&theme=transparent">
     </div>
-
+    <div>
+        <a href="https://www.linkedin.com/in/victor-mota-m"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="mailto:victorgabriell1177@gmail.com?subject=subject text"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    </div>
     
 </body>
 </html>
