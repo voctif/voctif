@@ -11,8 +11,7 @@
     </div>
     <div align = "center">
         <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voctif&layout=compact">
-        <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=voctif&theme=react&line_height=40&hide=css"/> </a>
+        <a href=""><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=voctif&theme=react&line_height=40&hide=css"/> </a>
     </div>
     <div>
         <br>
