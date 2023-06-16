@@ -12,6 +12,7 @@
     <div align = "center">
         <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent&hide_border=true">
         <a href=""><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=voctif&theme=react&line_height=40&hide=css"/> </a>
+        <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voctif&layout=compact"></a>
     </div>
     <div>
         <br>
@@ -19,6 +20,12 @@
         <a href="mailto:victorgabriell1177@gmail.com?subject=subject text"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <br><br>
     </div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+    </a>
 </body>
 </html>
 
