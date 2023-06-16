@@ -10,7 +10,7 @@
         <h2 align="center"> Hello i am Victor </h2>
     </div>
     <div align = "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent&hide_border">
+        <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent&hide_border=true">
         <a href=""><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=voctif&theme=react&line_height=40&hide=css"/> </a>
     </div>
     <div>
