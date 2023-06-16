@@ -11,7 +11,7 @@
     </div>
     <div align = "center">
         <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent&hide_border=true">
-        <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voctif&layout=compact"></a>
+        <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voctif&layout=compact&theme=transparent&hide_border=true"></a>
     </div>
     <div>
         <br>
