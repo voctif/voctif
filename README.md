@@ -11,7 +11,7 @@
         <h2 align="center"> Hello i am Victor </h2>
     </div>
     <div align = "center">
-        <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent&hide_border=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=voctif&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true">
         <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voctif&layout=compact&theme=transparent&hide_border=true"></a>
     </div>
     <div>
